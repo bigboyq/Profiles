@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,onedrive.com
